@@ -8,7 +8,7 @@ const int ledPin6 = 26;  // GPIO pin for LED 6
 
 // Define the GPIO pins for the sliding switches
 const int switchPin1 = 21;  // GPIO pin for sliding switch 1
-const int switchPin2 = 22;  // GPIO pin for sliding switch 2
+const int switchPin2 = 4;  // GPIO pin for sliding switch 2
 
 void setup() {
   // Initialize the serial monitor
